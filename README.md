@@ -10,23 +10,16 @@ This project is about Guam, one of the United States' Pacific Island territories
 ## Design Development
 ### initial sketches, final sketches, project screenshots
 
-<img width="722" alt="guamdemo1" src="https://github.com/bondie00/D3_Portfolio/assets/35945154/1a0c3273-8316-4137-84ba-fa1e00ad1d02">
-
-<img width="722" alt="guamdemo1" src="https://github.com/bondie00/D3_Portfolio/assets/35945154/cbf21a03-015a-4ffb-b33c-05ec01270a34">
-
-<img width="722" alt="guamdemo1" src="https://github.com/bondie00/D3_Portfolio/assets/35945154/c21ef58d-d0f5-4ec9-8032-ca21a9f1844a">
-
-<img width="722" alt="guamdemo1" src="https://github.com/bondie00/D3_Portfolio/assets/35945154/88a6031a-7938-44dc-a111-15353a72a068">
-
-<img width="722" alt="guamdemo2" src="https://github.com/bondie00/D3_Portfolio/assets/35945154/985a2bc8-b92b-4712-839d-23a4d8aaad84">
-
-<img width="721" alt="guamdemo3" src="https://github.com/bondie00/D3_Portfolio/assets/35945154/fff5ac7d-9c0e-4ec6-bef0-afc4800fc26c">
+<img width="400" alt="guamdemo1" src="https://github.com/bondie00/D3_Portfolio/assets/35945154/1a0c3273-8316-4137-84ba-fa1e00ad1d02">
+<img width="400" alt="guamdemo1" src="https://github.com/bondie00/D3_Portfolio/assets/35945154/cbf21a03-015a-4ffb-b33c-05ec01270a34">
+<img width="400" alt="guamdemo1" src="https://github.com/bondie00/D3_Portfolio/assets/35945154/4550570b-eaec-4565-91c4-4521146c4bee">
+<img width="400" alt="guamdemo1" src="https://github.com/bondie00/D3_Portfolio/assets/35945154/88a6031a-7938-44dc-a111-15353a72a068">
+<img width="400" alt="guamdemo2" src="https://github.com/bondie00/D3_Portfolio/assets/35945154/985a2bc8-b92b-4712-839d-23a4d8aaad84">
+<img width="400" alt="guamdemo3" src="https://github.com/bondie00/D3_Portfolio/assets/35945154/fff5ac7d-9c0e-4ec6-bef0-afc4800fc26c">
 
 ## Data
 
 Race data for Guam taken from 2020 US Census, Decennial Census of Island Areas, general demographic characteristics table (https://data.census.gov/table?q=guam&d=DECIA+Guam+Demographic+Profile&tid=DECENNIALDPGU2020.DP1).
 
 I took the population numbers and percentages from the table above and entered them by hand into an array of objects that holds all the necessary information about the data, including total number, percentage, name of race, and race cateogry, as well as containing the coordinates necessary to make a stacked bar chart, which I also calculated by hand using the percentages given by the census.
-
-
 
