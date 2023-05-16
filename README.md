@@ -19,7 +19,7 @@ This project is about Guam, one of the United States' Pacific Island territories
 
 ## Data
 
-Race data for Guam taken from 2020 US Census, Decennial Census of Island Areas, general demographic characteristics table (https://data.census.gov/table?q=guam&d=DECIA+Guam+Demographic+Profile&tid=DECENNIALDPGU2020.DP1).
+Race data for Guam was taken from 2020 US Census, Decennial Census of Island Areas, general demographic characteristics table (https://data.census.gov/table?q=guam&d=DECIA+Guam+Demographic+Profile&tid=DECENNIALDPGU2020.DP1).
 
 I took the population numbers and percentages from the table above and entered them by hand into an array of objects that holds all the necessary information about the data, including total number, percentage, name of race, and race cateogry, as well as containing the coordinates necessary to make a stacked bar chart, which I also calculated by hand using the percentages given by the census.
 
