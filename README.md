@@ -12,7 +12,7 @@ This project is about Guam, one of the United States' Pacific Island territories
 
 <img width="400" alt="guamdemo1" src="https://github.com/bondie00/D3_Portfolio/assets/35945154/1a0c3273-8316-4137-84ba-fa1e00ad1d02">
 <img width="400" alt="guamdemo1" src="https://github.com/bondie00/D3_Portfolio/assets/35945154/cbf21a03-015a-4ffb-b33c-05ec01270a34">
-<img width="400" alt="guamdemo1" src="https://github.com/bondie00/D3_Portfolio/assets/35945154/4550570b-eaec-4565-91c4-4521146c4bee">
+<img width="400" alt="guamdemo1" src="https://github.com/bondie00/D3_Portfolio/assets/35945154/d941f06a-ac69-426b-9051-90bbf12fa505">
 <img width="400" alt="guamdemo1" src="https://github.com/bondie00/D3_Portfolio/assets/35945154/88a6031a-7938-44dc-a111-15353a72a068">
 <img width="400" alt="guamdemo2" src="https://github.com/bondie00/D3_Portfolio/assets/35945154/985a2bc8-b92b-4712-839d-23a4d8aaad84">
 <img width="400" alt="guamdemo3" src="https://github.com/bondie00/D3_Portfolio/assets/35945154/fff5ac7d-9c0e-4ec6-bef0-afc4800fc26c">
