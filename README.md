@@ -33,3 +33,5 @@ This visualization is about how much effect a quaterback's performance has on th
 
 I used this dataset of nfl offensive stats between 2019 and 2021 from Kaggle: https://www.kaggle.com/datasets/dtrade84/nfl-offensive-stats-2019-2022. This dataset contains the stats for every player who played in every game between 2019 and 2021.  Before appending the data to the DOM, I filter to get only the entries pertaining to quarterbacks who made at least 5 pass attempts (to ensure the qb was in the game long enough to have an effect).  I also created a few columns to make displaying the tooltip information easier, including a column for how many points scored by the qbs team, for point difference, and for whether the qbs team won or lost.  I used pandas scripts to quickly generate and populate the new columns.
 
+# [Portfolio Reflection](https://github.com/bondie00/D3_Portfolio/blob/main/Interactive%20Data%20Visualization%20Portfolio%20Reflection.pdf)
+
