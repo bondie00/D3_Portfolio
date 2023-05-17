@@ -23,3 +23,13 @@ Race data for Guam was taken from 2020 US Census, Decennial Census of Island Are
 
 I took the population numbers and percentages from the table above and entered them by hand into an array of objects that holds all the necessary information about the data, including total number, percentage, name of race, and race cateogry, as well as containing the coordinates necessary to make a stacked bar chart, which I also calculated by hand using the percentages given by the census.
 
+# [Quarterbacks Updated Tutorial](https://bondie00.github.io/D3_Portfolio/3_2_distributions/)
+
+## Abstract
+
+This visualization is about how much effect a quaterback's performance has on the final outcome of a football game. This is illustrated using a scatter plot with quarterback passer rating on the x-axis and total points scored by the qb's team on the y-axis. The scatterplot displays information for one qb at a time, chosen by the user using a dropdown list. Each point represents one game played between 2019 and 2021. The color of the point represents whether the qb's team won or lost, and the size of the point represents the score different at the end of the game (ie how much the qb's team won or lost by). The differences in the overall trend of the scatterplot between qbs goes to show the differences in how successful certain qbs are or are not.  The tooltips allow for a deeper exploration into each game to try and figure out what other factors beside qb performance may have been at play.
+
+## Data
+
+I used this dataset of nfl offensive stats between 2019 and 2021 from Kaggle: https://www.kaggle.com/datasets/dtrade84/nfl-offensive-stats-2019-2022. This dataset contains the stats for every player who played in every game between 2019 and 2021.  Before appending the data to the DOM, I filter to get only the entries pertaining to quarterbacks who made at least 5 pass attempts (to ensure the qb was in the game long enough to have an effect).  I also created a few columns to make displaying the tooltip information easier, including a column for how many points scored by the qbs team, for point difference, and for whether the qbs team won or lost.  I used pandas scripts to quickly generate and populate the new columns.
+
